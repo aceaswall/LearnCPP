@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FirstConsoleApp.cpp" />
+    <ClCompile Include="FloatingPointDataTypes.cpp" />
+    <ClCompile Include="IntergerDataTypes.cpp" />
     <ClCompile Include="LearnCPP.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
