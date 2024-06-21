@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BuggyTrigonometry.cpp" />
     <ClCompile Include="FirstConsoleApp.cpp" />
     <ClCompile Include="FloatingPointDataTypes.cpp" />
     <ClCompile Include="IntergerDataTypes.cpp" />
     <ClCompile Include="LearnCPP.cpp" />
+    <ClCompile Include="ReadingDocumentation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
