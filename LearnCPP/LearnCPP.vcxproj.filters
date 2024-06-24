@@ -33,5 +33,17 @@
     <ClCompile Include="BuggyTrigonometry.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="UsingDeckClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExerciceAgeType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise4NumberInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
