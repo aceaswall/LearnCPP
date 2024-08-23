@@ -130,11 +130,15 @@
     <ClCompile Include="BuggyTrigonometry.cpp" />
     <ClCompile Include="ExerciceAgeType.cpp" />
     <ClCompile Include="Exercise4NumberInt.cpp" />
+    <ClCompile Include="Exercise6.cpp" />
+    <ClCompile Include="Exercise7.cpp" />
     <ClCompile Include="FirstConsoleApp.cpp" />
     <ClCompile Include="FloatingPointDataTypes.cpp" />
+    <ClCompile Include="IfStatements.cpp" />
     <ClCompile Include="IntergerDataTypes.cpp" />
     <ClCompile Include="LearnCPP.cpp" />
     <ClCompile Include="ReadingDocumentation.cpp" />
+    <ClCompile Include="SwtichStatements.cpp" />
     <ClCompile Include="Tests.cpp" />
     <ClCompile Include="UsingDeckClass.cpp" />
   </ItemGroup>
